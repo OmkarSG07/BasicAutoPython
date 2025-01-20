@@ -3,8 +3,9 @@ basic level devops automation using python
 Sure! Below is a **README** file for the Python automation script we discussed. It includes a **detailed explanation** of what the script does, how to use it, and an overview of its functionality.
 
 ---
-
-# DevOps Automation Script (Python)
+# Project - 1
+# keeping this script very basic and easy to make changes in the script
+# Name : devops_auto_1.py (Python)
 
 This Python script automates the creation of directories and files, as well as monitoring a file for changes. It is intended for DevOps beginners to learn how automation works by performing simple file operations and monitoring changes. 
 
