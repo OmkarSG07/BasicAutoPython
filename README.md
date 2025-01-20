@@ -173,4 +173,3 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 - You can modify the `directory` and `file_name` variables to suit your needs.
 - The script runs indefinitely to monitor file changes. To stop it, simply interrupt the execution (Ctrl+C in most terminals).
 
-Let me know if you need further assistance with the script or modifications to suit your use case!
